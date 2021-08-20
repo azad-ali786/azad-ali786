@@ -1,13 +1,13 @@
 ### Hello World, I'm Azad  👋
 
- <img align="right" alt="GIF" src="https://github.com/azad-ali786/azad-ali786/blob/main/animation_300_kskrxeui.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/azad-ali786/azad-ali786/blob/main/animation_640_ksks725v.gif" width="500" height="320" />
 
 
 ## I'm a Optimistic Developer, Creator, Designer and Learner!!
 - 🔭 I’m currently working on cultivating productive habits.
 - 🌱 I’m currently learning React Native and Ethereum
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 💬 Ask me about NextJs,React and UI.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: HTML is not a programming language
 
