@@ -1,6 +1,6 @@
 ### Hello World, I'm Azad  👋
 
- <img align="right" alt="GIF" src="https://github.com/azad-ali786/azad-ali786/blob/main/animation_640_ksks725v.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/azad-ali786/azad-ali786/blob/main/animation_640_ksks725v.gif" width="400" height="400" />
 
 
 ## I'm a Optimistic Developer, Creator, Designer and Learner!!
