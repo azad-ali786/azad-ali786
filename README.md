@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning Angular and Ethereum
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about NextJs,React and UI.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: HTML is not a programming language
 
 
