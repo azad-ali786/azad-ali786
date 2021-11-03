@@ -1,7 +1,7 @@
 ### Hello World, I'm Azad  👋
 ## I'm a Optimistic Developer, Creator, Designer and Learner!!
 - 🔭 I’m currently working on cultivating productive habits.
-- 🌱 I’m currently learning Angular and Ethereum
+- 🌱 I’m currently learning D3 and Ethereum
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about NextJs,React and UI.
 - ⚡ Fun fact: HTML is not a programming language
