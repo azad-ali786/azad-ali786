@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning D3 and Ethereum
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about NextJs,React and UI.
-- ⚡ Fun fact: HTML is not a programming language
+- ⚡ Fun fact: I'm not a bad Slime
 
 
 ### Talk with me, I am kinda awesome:
